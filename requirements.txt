@@ -1,9 +1,0 @@
-
-stldecompose=0.0.5
-numpy=1.20.1
-pandas=1.2.3
-yahoofinancials=1.6
-yfinance=0.1.55
-matplotlib=3.3.4
-plotly=4.14.3
-
